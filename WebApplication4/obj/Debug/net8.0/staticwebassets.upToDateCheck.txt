@@ -871,6 +871,7 @@ wwwroot\fonts\fontawesome-webfont.ttf
 wwwroot\fonts\fontawesome-webfont.woff
 wwwroot\fonts\fontawesome-webfont.woff2
 wwwroot\fonts\FontAwesome.otf
+wwwroot\images\667946eb-45f0-43c0-ac3c-d835c6d26b7distockphoto-517188688-612x612.jpg
 wwwroot\images\blog-author.jpg
 wwwroot\images\blog-header-bg.jpg
 wwwroot\images\blog-thumb.jpg

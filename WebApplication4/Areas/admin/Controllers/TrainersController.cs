@@ -8,12 +8,24 @@ using WebApplication4.ViewModels.TrainerViewModels;
 
 namespace WebApplication4.Areas.admin.Controllers;
 [Area("Admin")]
-public class TrainersController(AppDbContext _context,IWebHostEnvironment _envireonment) : Controller
+public class TrainersController : Controller
 {
+    private readonly AppDbContext _context;
+    private readonly IWebHostEnvironment _environment;
+    private readonly string _folderPath;
+
+    public TrainersController(AppDbContext context, IWebHostEnvironment environment)
+    {
+        _context = context;
+        _environment = environment;
+        _folderPath = Path.Combine(_environment.WebRootPath, "images");
+    }
+
     public async Task<IActionResult> Index()
     {
         var trainer=await _context.Trainers.Select(x=>new TrainerGetVM
         {
+            Id=x.Id,
             Name = x.Name,
             Description = x.Description,
             ImagePath = x.ImagePath,
@@ -44,53 +56,80 @@ public class TrainersController(AppDbContext _context,IWebHostEnvironment _envir
     public async Task<IActionResult> Create(TrainerCreateVM vm)
     {
         await _sendDepartamentsWithvViewBag();
-        if (!ModelState.IsValid)
-        {
-            return View(vm); 
-        }
+        if(!ModelState.IsValid) 
+            return View(vm);
 
-        var isExitsDepartamen = await _context.Departaments.AnyAsync(x => x.Id == vm.DepartamentId);
-        if (!isExitsDepartamen)
+        var departament= await _context.Departaments.AnyAsync(x => x.Id == vm.DepartamentId);
+
+        if(!departament )
         {
-            ModelState.AddModelError("DepartamentId", "This Departamen is not found");
+            ModelState.AddModelError("DepartamentId","This Departament is not found");
             return View(vm);
         }
-
         if (vm.Image.Length > 2 * 1024 * 1024)
         {
-            ModelState.AddModelError("Image", "Image's maximun size must be 2 mb");
+
+            ModelState.AddModelError("image", "seklin olcusu 2 mbden cox ola bilmez");
             return View(vm);
         }
         if (!vm.Image.ContentType.Contains("image"))
         {
-            ModelState.AddModelError("Image", "You can upload file in only image format");
+            ModelState.AddModelError("image", "ancaq sekil formatinda data daxil ede bilersiz");
             return View(vm);
         }
 
-        string uniqueFileName = Guid.NewGuid().ToString() + vm.Image.FileName;
-
-        string foldePath = Path.Combine(_envireonment.WebRootPath, "images");
-
-        string path=Path.Combine(foldePath, uniqueFileName);
+        string uniqueFileName=Guid.NewGuid().ToString()+vm.Image.FileName;
+        //string folderPath = Path.Combine(_environment.WebRootPath, "images");
+        
+        string path=Path.Combine(_folderPath, uniqueFileName);
 
 
         using FileStream stream = new(path, FileMode.Create);
 
-        vm.Image.CopyToAsync(stream);
+        await vm.Image.CopyToAsync(stream);
+
+      
+
+       
+
 
         Trainer trainer = new()
         {
             Name = vm.Name,
             Description = vm.Description,
             DepartamenId = vm.DepartamentId,
-            ImagePath=uniqueFileName
-
+            ImagePath =uniqueFileName,
         };
+
         await _context.Trainers.AddAsync(trainer);
 
         await _context.SaveChangesAsync();
 
+
         return RedirectToAction("Index");
+
+    }
+
+    public async Task<IActionResult> Delete(int id)
+    {
+        if (!ModelState.IsValid)
+            return View();
+
+        var trainer= await _context.Trainers.FindAsync(id);
+        if (trainer is null)
+            return NotFound();
+
+        _context.Trainers.Remove(trainer);
+        await _context.SaveChangesAsync();
+
+
+        string deleteImagePath = Path.Combine(_folderPath, trainer.ImagePath);
+
+        if(System.IO.File.Exists(deleteImagePath))
+        System.IO.File.Delete(deleteImagePath);
+
+        return RedirectToAction(nameof(Index));
+
 
     }
 

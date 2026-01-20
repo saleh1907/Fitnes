@@ -633,6 +633,22 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.23": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.23"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Razor.Language/6.0.24": {
         "type": "package",
         "compile": {
@@ -1237,11 +1253,11 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/8.0.22": {
+      "Microsoft.EntityFrameworkCore/8.0.23": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.22",
-          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.22"
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.23",
+          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.23"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
@@ -1257,7 +1273,7 @@
           "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/8.0.22": {
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.23": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
@@ -1270,7 +1286,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.22": {
+      "Microsoft.EntityFrameworkCore.Analyzers/8.0.23": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -1302,10 +1318,10 @@
           "build/net8.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/8.0.22": {
+      "Microsoft.EntityFrameworkCore.Relational/8.0.23": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.22"
+          "Microsoft.EntityFrameworkCore": "8.0.23"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
@@ -2847,6 +2863,21 @@
         "logo.png"
       ]
     },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.23": {
+      "sha512": "8tTL+BHyNbROcp70izY0HIURpMa8UnF29nOTj/WfAyXHIp8AzykOAEcPoLP1F96tpfnRWY7/e9D9giiXjeOQMw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/8.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.identity.entityframeworkcore.8.0.23.nupkg.sha512",
+        "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
+      ]
+    },
     "Microsoft.AspNetCore.Razor.Language/6.0.24": {
       "sha512": "kBL6ljTREp/3fk8EKN27mrPy3WTqWUjiqCkKFlCKHUKRO3/9rAasKizX3vPWy4ZTcNsIPmVWUHwjDFmiW4MyNA==",
       "type": "package",
@@ -4114,10 +4145,10 @@
         "microsoft.dotnet.scaffolding.shared.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore/8.0.22": {
-      "sha512": "nKGrD/WOO1d7qtXvghFAHre5Fk3ubw41pDFM0hbFxVIkMFxl4B0ug2LylMHOq+dgAceUeo3bx0qMh6/Jl9NbrA==",
+    "Microsoft.EntityFrameworkCore/8.0.23": {
+      "sha512": "zFFiP1bv9ym5TESwaajug8lN5rCB4KWk7d/5US+X3xVdZ5qeIbpszOFNtx6cijM6fyuacUCDKIfWsJ0WN9JFfQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore/8.0.22",
+      "path": "microsoft.entityframeworkcore/8.0.23",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4126,14 +4157,14 @@
         "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props",
         "lib/net8.0/Microsoft.EntityFrameworkCore.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.xml",
-        "microsoft.entityframeworkcore.8.0.22.nupkg.sha512",
+        "microsoft.entityframeworkcore.8.0.23.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/8.0.22": {
-      "sha512": "p4Fw9mpJnZHmkdOGCbBqbvuyj1LnnFxNon8snMKIQ0MGSB+j9f6ffWDfvGRaOS/9ikqQG9RMOTzZk52q1G23ng==",
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.23": {
+      "sha512": "R4Zw5NwUjVWdx0+3ycJnCmAPIQ2s1VLPeh3gF6ZOJ4MuBiiQWLRN3XlSv4JJ3rAVjrcIa0N0APIkHELHf95JIA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.abstractions/8.0.22",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.23",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4141,14 +4172,14 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
-        "microsoft.entityframeworkcore.abstractions.8.0.22.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.8.0.23.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/8.0.22": {
-      "sha512": "lrSWwr+X+Fn5XGOwOYFQJWx+u+eameqhMjQ1mohXUE2N7LauucZAtcH/j+yXwQntosKoXU1TOoggTL/zmYqbHQ==",
+    "Microsoft.EntityFrameworkCore.Analyzers/8.0.23": {
+      "sha512": "OJffn34WQkZRtyleqlCrf5BstqYrgo0ZvVgs4Kx4/pbtWdk5VoTrE7vf5ni+a5Aq1/5SGOt4/TY8RuGfxYjADw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/8.0.22",
+      "path": "microsoft.entityframeworkcore.analyzers/8.0.23",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4156,7 +4187,7 @@
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "docs/PACKAGE.md",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.8.0.22.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.8.0.23.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -4176,10 +4207,10 @@
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/8.0.22": {
-      "sha512": "3X8gPMNA/WBtV3Cmz8rNpm2zzjJzr/hsyViRJPNgATrYOTSiTgT3RDFQLsJfd8JHwqEE3zpEcDfqx4qAj0o4EA==",
+    "Microsoft.EntityFrameworkCore.Relational/8.0.23": {
+      "sha512": "v99Y8Y1BIdBzYZ+YupM6DS2axF7hN8GhZydoV7pjsUu61nR2sVzC2dGzuE7zU8mW3WfAEFTHhmaZh2th+LvVuQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/8.0.22",
+      "path": "microsoft.entityframeworkcore.relational/8.0.23",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4187,7 +4218,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.8.0.22.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.8.0.23.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
@@ -5651,6 +5682,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.23",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.22",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.22",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.22"
@@ -5663,11 +5695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Source\\Repos\\Fitnes\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "C:\\Users\\ACER\\Source\\Repos\\Fitnes\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Source\\Repos\\Fitnes\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5706,6 +5738,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.23, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.22, )"

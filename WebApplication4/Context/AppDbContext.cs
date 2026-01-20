@@ -1,10 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 using WebApplication4.Models;
 
 namespace WebApplication4.Context
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
@@ -17,5 +18,6 @@ namespace WebApplication4.Context
 
        public DbSet<Trainer> Trainers { get; set; }
         public DbSet<Departament>Departaments { get; set; }
+       
     }
 }

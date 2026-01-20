@@ -1,74 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Fitnes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\viewmodels\\trainerviewmodels\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\viewmodels\\trainerviewmodels\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\trainers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\trainers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\configurations\\trainerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\source\\repos\\fitnes\\webapplication4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F186C96-815C-4C73-98D0-BED2A1CDA0B2}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,64 +97,120 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwB4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:45:03.436Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T17:58:16.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:57:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "WebApplication4\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:55:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\AppUser.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:52:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\Trainers\\Create.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAASwDQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvx8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T19:17:09.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\Trainers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvx8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T18:57:17.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrainerGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\ViewModels\\TrainerViewModels\\TrainerGetVM.cs",
-              "RelativeDocumentMoniker": "WebApplication4\\ViewModels\\TrainerViewModels\\TrainerGetVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\ViewModels\\TrainerViewModels\\TrainerGetVM.cs",
-              "RelativeToolTip": "WebApplication4\\ViewModels\\TrainerViewModels\\TrainerGetVM.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T18:53:56.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "TrainersController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Controllers\\TrainersController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T18:51:48.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "TrainerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Configurations\\TrainerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Configurations\\TrainerConfiguration.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Configurations\\TrainerConfiguration.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Configurations\\TrainerConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Configurations\\TrainerConfiguration.cs",
               "RelativeToolTip": "WebApplication4\\Configurations\\TrainerConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Departament.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Models\\Departament.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\Departament.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Models\\Departament.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Models\\Departament.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\Departament.cs",
               "RelativeToolTip": "WebApplication4\\Models\\Departament.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Trainer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Models\\Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Models\\Trainer.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Models\\Trainer.cs",
               "RelativeToolTip": "WebApplication4\\Models\\Trainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,24 +245,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Context\\AppDbContext.cs",
               "RelativeToolTip": "WebApplication4\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T18:08:55.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -199,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -212,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEwBAAAAAAAAAAAWwGIBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -225,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAEwCQAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -238,11 +310,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "WebApplication4\\Areas\\admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "WebApplication4\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "WebApplication4\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -264,24 +336,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T17:35:57.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication4\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "WebApplication4\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -289,18 +361,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\WebApplication4\\WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fitnes\\WebApplication4\\Program.cs",
               "RelativeToolTip": "WebApplication4\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T17:34:42.376Z",
               "EditorCaption": ""

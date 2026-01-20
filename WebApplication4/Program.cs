@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WebApplication4.Context;
+using WebApplication4.Models;
 
 namespace WebApplication4
 {
@@ -16,6 +18,10 @@ namespace WebApplication4
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             var app = builder.Build();
 

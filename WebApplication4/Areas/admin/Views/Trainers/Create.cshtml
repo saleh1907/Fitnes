@@ -25,15 +25,11 @@
            
             <div class="form-group">
                 <label asp-for="DepartamentId"> DepartamentId</label>
-               <select asp-for="DepartamentId" class="form-control">
+                <select asp-for="DepartamentId" class="form-control" asp-items="@ViewBag.Departaments">
 
 
 
-                   @foreach (Departament departament in ViewBag.Departaments)
-                    {
-                       <option value="@departament.Id">@departament.Name</option> 
-                    }
-
+                   
                </select>
                 <span asp-validation-for="DepartamentId" class="text-danger"></span>
             </div>
